@@ -1,10 +1,9 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.paywaywallet.beta",
-      "sha256_cert_fingerprints": ["B9:6D:05:EE:0A:DE:00:8A:BA:BD:68:D1:39:0A:EF:6F:62:F1:32:EA:20:7A:66:17:E1:C6:EB:93:CB:C4:4A:74"]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.paywaywallet.beta",
+    "sha256_cert_fingerprints":
+    ["8F:6A:F9:A8:50:A4:AA:0B:09:C2:27:9D:69:26:EB:3F:7C:A3:AC:3F:5C:42:39:44:F1:C5:18:56:90:0B:53:B0"]
   }
-]
+}]
